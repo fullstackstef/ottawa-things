@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "siteName": "Parliament Hill and Buildings",
+    "image": "🏛️",
+    "address": "111 Wellington St, Ottawa, Ontario K1A 0A6, Canada",
+    "phone": "613-992-4793",
+    "price": "🇨🇦 $0.00",
+    "rating": "4.5",
+    "free": true,
+    "description": "Three Gothic Revival-style buildings, located on a 170-foot bluff overlooking the Ottawa River, house the offices of the members of Parliament, the House of Commons and the Senate. Free guided tours delve into Canadian history and explain the workings of the political system."
+  },
+  {
+    "id": 1,
+    "siteName": "Canadian War Museum",
+    "image": "🔫",
+    "address": "1 Vimy Place, Ottawa, Ontario K1A 0M8, Canada",
+    "phone": "+1 800-555-5621",
+    "price": "🇨🇦 $19.22",
+    "rating": "4.5",
+    "free": false,
+    "description": "The Canadian War Museum is more than a museum that is internationally renowned for its symbolic architecture; it is synonym for inspiring and touching stories. Canada's rich military history is showcased through personal stories, artwork, photographs and interactive presentations. Tour the extensive permanent exhibitions and expand your knowledge of the conflicts that shaped Canada, Canadians and the world, as well as the roll Canadians played in them."
+  },
+  {
+    "id": 2,
+    "siteName": "Rideau Canal",
+    "image": "🚶",
+    "address": "Ottawa, Ontario K1S 5B8, Canada",
+    "phone": "+1 613-239-5234",
+    "price": "🇨🇦 $0.00",
+    "rating": "4.5",
+    "free": true,
+    "description": "One of the oldest landmarks in Ottawa, this canal is filled with boats in the summer and becomes the 'World's Longest Skating Rink' in the winter."
+  },
+  {
+    "id": 3,
+    "siteName": "Canadian Museum of Nature",
+    "image": "🌿",
+    "address": "240 McLeod St, Ottawa, Ontario K2P 2R1, Canada",
+    "phone": "+1 613-566-4700",
+    "price": "🇨🇦 $16.95",
+    "rating": "4.5",
+    "free": false,
+    "description": "Canada's national natural history museum offers world-class galleries in a handsome heritage 'Castle'. Marvel at dinosaurs and other ancient reptiles in the Fossil Gallery. See grizzlies and other wild animals up close in beautiful dioramas in the Mammal Gallery. Observe hundreds of specimens in the Bird Gallery. See a real blue whale skeleton in the Water Gallery. Be dazzled by over a thousand gorgeous minerals and rocks in the Earth Gallery. Learn about Canada's North in the Canada Goose Arctic Gallery. Peer at an eye-popping assortment of creepy crawlies in Nature Live. Enjoy an action-packed 3D movie. Take advantage of numerous hands-on activities. Don't miss the special, travelling exhibitions. A superb destination for visitors of all ages!"
+  },
+  {
+    "id": 4,
+    "siteName": "National Gallery of Canada",
+    "image": "🎨 ",
+    "address": "380 Sussex Dr, Ottawa, Ontario K1N 9N4, Canada",
+    "phone": "+1 613-990-1985",
+    "price": "🇨🇦 $16.00",
+    "rating": "4.5",
+    "free": false,
+    "description": "Founded in 1880, the National Gallery of Canada (Musée des beaux-arts du Canada) holds in trust a collection of European and Canadian paintings, sculptures, prints, drawings and photos."
+  }
+]

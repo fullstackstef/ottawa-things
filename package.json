@@ -1,0 +1,18 @@
+{
+  "name": "01_ottawa_things",
+  "version": "1.0.0",
+  "description": "Barebones NodeJS application showing things to do in Ottawa, Ontario, Canada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Stefan Trivuncic",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "slugify": "^1.3.5"
+  }
+}
